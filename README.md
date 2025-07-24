@@ -33,7 +33,7 @@ I’m passionate about turning data into insights and building intelligent appli
 ---
 
 ## 📈 GitHub Stats  
-""" [![Kilian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr00x&show_icons=true&theme=tokyonight)](https://github.com/Kr00x)  """
+[![Kilian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr00x&show_icons=true&theme=tokyonight)](https://github.com/Kr00x)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr00x&layout=compact&theme=tokyonight)](https://github.com/Kr00x)
 
 ---
