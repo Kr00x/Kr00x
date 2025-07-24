@@ -38,6 +38,5 @@ I’m passionate about turning data into insights and building intelligent appli
 
 ## 📫 How to Reach Me  
 - 📧 kilimai05@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 📄 [Download Resume (PDF)](https://github.com/Kr00x/Kr00x/raw/main/Resume_Kilian_Maier.pdf)
 
