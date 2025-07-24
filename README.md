@@ -1,3 +1,5 @@
+# 🚀 OPTIMIZE 🚀
+
 # 👋 Hi, I’m Kilian Maier
 
 ## 🎓 2nd-Year B.Sc. Data Science Student & AI Enthusiast
