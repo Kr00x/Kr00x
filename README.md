@@ -1,6 +1,6 @@
 # 🚀 OPTIMIZE 🚀
 
-# 👋 Hi, I’m Kilian Maier
+# 👋 Hi, I’m Kilian 
 
 ## 🎓 2nd-Year B.Sc. Data Science Student & AI Enthusiast
 
