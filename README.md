@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Kilian 
 
-## 🎓 3nd-Year B.Sc. Data Science Student & AI Enthusiast 
+## 🎓 3rd-Year B.Sc. Data Science Student & AI Enthusiast 
 
 I’m passionate about turning data into insights and building intelligent applications.
 
