@@ -8,10 +8,9 @@ I’m passionate about turning data into insights and building intelligent appli
 
 ---
 
-## 🚀 What I’m Up To
-- 🤝 Currently taking part in founding a tech startup in the AI/ML space with partners (steering product vision & early-stage model prototyping).  
-- 🌱 Deepening my expertise in **machine learning**, **deep learning** and **AI research & development**.  
-- 💻 Before that, I worked on **web-development projects** (MERN stack, React, Node.js) to deliver user-facing applications.  
+## 🚀 What I’m Up To  
+- 🌱 Deepening my Understanding in **machine learning**, **deep learning** and **AI research & development**.  
+- 💻 Before that, I worked on **web-development projects** (MERN stack, React, Node.js).  
 - 🎓 Earned the **CS50 AI Certificate** from Harvard University  
   [View Certificate 📜](https://certificates.cs50.io/ea251566-31c3-4642-ad81-4deb4ce5ac55.pdf?size=letter)
 
